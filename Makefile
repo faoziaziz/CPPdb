@@ -9,5 +9,5 @@ kompile:
 
 jalankan:
 	./${TARGET}/${APLIKASI}
-	
+
 semua: kompile jalankan

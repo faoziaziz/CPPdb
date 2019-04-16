@@ -2,7 +2,8 @@
 #include<mysql.h>
 using namespace std;
 
+
 int main(){
-    cout<<"Aku sayang kamu"<<endl;
-    return 0;
+    MYSQL *con = mysql_init(NULL);
+    cout<<"SO goodbye"<<endl;
 }
