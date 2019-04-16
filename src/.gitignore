@@ -1,2 +1,4 @@
-.vscode/*
-build/*
+# Sampah visual kode
+.vscode/
+# sampah build 
+build/
