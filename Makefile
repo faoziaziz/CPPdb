@@ -6,5 +6,5 @@ kompile:
 	${CC} -o  ${TARGET}/cppdb ${SRC}/main.c 
 
 jalankan:
-	./build/cppdb
+	./{TARGET}/cppdb
 semua: kompile jalankan
