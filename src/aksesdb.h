@@ -1,10 +1,12 @@
+
 #include<iostream>
 #include<mysql.h>
 
-using namespace std;
-
 #ifndef aksesdb_H
 #define aksesdb_H
+
+using namespace std;
+
 
 void akses_db(){
     MYSQL *Connection;
